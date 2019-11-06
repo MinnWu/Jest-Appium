@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "appium"
   },
   "repository": {
@@ -20,6 +20,7 @@
   "homepage": "https://github.com/MinnWu/Jest-Appium#readme",
   "devDependencies": {
     "appium": "^1.15.1",
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "wd": "^1.11.4"
   }
 }
