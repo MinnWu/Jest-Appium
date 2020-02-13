@@ -22,5 +22,8 @@
     "appium": "^1.15.1",
     "jest": "^24.9.0",
     "wd": "^1.11.4"
+  },
+  "dependencies": {
+    "appium-doctor": "^1.13.1"
   }
 }
